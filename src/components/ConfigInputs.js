@@ -1,6 +1,6 @@
 import {InputGroup, Button, FormControl, ButtonGroup, ToggleButton} from 'react-bootstrap';
 import {useState} from 'react';
-import { useAlert } from 'react-alert'
+import {useAlert} from 'react-alert'
 import {Signer} from 'casper-js-sdk';
 
 const ConfigInputs = ( {onInputChange, platforms} ) => {
