@@ -25,6 +25,8 @@ $ git clone git@github.com:cy6erninja/casper-qr-code.git
 
 $ cd casper-qr-generator
 
+$ cp .env.example .env # Don't forget to add key IMGBB_API_KEY=
+
 $ yarn install
 
 $ yarn start
