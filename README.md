@@ -23,7 +23,7 @@ Also, imgbb.com account is not set up to last much longer than the hackathon goe
 ```
 $ git clone git@github.com:cy6erninja/casper-qr-code.git
 
-$ cd casper-qr-generator
+$ cd casper-qr-code
 
 $ cp .env.example .env # Don't forget to add key IMGBB_API_KEY=
 
