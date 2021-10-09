@@ -46,5 +46,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "react-dotenv": {
+    "whitelist": ["IMGBB_BASE", "IMGBB_EXPIRATION", "IMGBB_API_KEY"]
   }
 }
