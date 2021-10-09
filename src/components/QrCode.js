@@ -1,4 +1,4 @@
-import {Button, Stack, InputGroup, FormControl} from 'react-bootstrap'
+import {Button, Stack} from 'react-bootstrap'
 import QRCode from 'qrcode.react';
 import logo from "../assets/img/casper.png"
 import axios from 'axios';
